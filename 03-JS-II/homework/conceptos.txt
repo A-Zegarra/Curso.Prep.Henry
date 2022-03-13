@@ -1,0 +1,17 @@
+for
+
+Es una estructura repetitiva para realizar varios calculos con una misma estrucutra de operacion 
+segun la cantidad de veces que nostros indiquemos, una suma podemos repetirla varias veces, incluso incrementar
+su numero incial de 1 en 1 o dependiendo,
+
+&&, ||, !
+
+son operadores condicionales if 
+&& (AND) indica que junto a una condicion debe cumplirse otra, si a =1 && b = 2 entonces la respuesta es verdad , 
+y si no se cumple entonces sera falso.
+
+|| (OR) en este caso si no se cumple una condicion, se cumplira la otra, si a = 1 || a =2 entonces la respuesta es verdad,
+y si no se cumple entonces sera falso.
+
+!(NOT) se utiliza para obtener el valor contrario al valor de la variable si tenemos un true nos devolvera un false,
+ y viceversa.
