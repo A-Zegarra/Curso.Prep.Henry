@@ -1,0 +1,24 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+-Variables
+
+las variables son pequeños textos que nosotros podemos escribir en el codigo que representan un tipo de datos como un numero
+o un texto en concreto, y pueden ser utilizados para realizar operaciones que se requieran.
+
+
+-Strings
+
+son datos parecidos a las variables pero solo contienen cadenas de texto.
+
+
+-Funciones (argumentos, return)
+
+es un conjunto de operaciones que se desarrollan de manera interna y requieren datos de entrada y de salida.
+
+-Declaraciones if
+
+Es una estructura para realizar operaciones segun condiciones como verdaderas o falsas.
+
+-Valores booleanos (true, false)
+
+Son tipos de datos de solo 2 opciones como verdadero o falso, 0 o 1 operados por la computadora.
